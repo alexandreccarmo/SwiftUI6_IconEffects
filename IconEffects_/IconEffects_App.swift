@@ -11,7 +11,7 @@ import SwiftUI
 struct IconEffects_App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Symbols()
         }
     }
 }
